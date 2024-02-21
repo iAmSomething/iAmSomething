@@ -30,6 +30,7 @@
 
 - Swift
 - RxSwift
+- SwiftUI
 - ReactorKit
 - RestAPI 통신 경험 (Moya, Alamofire)
 - 지도 API 활용 경험(Mapkit, 네이버, 카카오)
